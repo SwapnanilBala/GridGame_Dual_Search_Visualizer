@@ -1,0 +1,5 @@
+#  Visualization 
+matplotlib>=3.8
+
+#  Real-time grid visualization 
+pygame>=2.6.1
